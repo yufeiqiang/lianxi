@@ -1,0 +1,9 @@
+*{
+    list-style: none;
+}
+.xingkong{
+    background: url(../image/xingkong.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
